@@ -1,8 +1,9 @@
 package strategy;
 
-import strategy.Behavior.game.PlayLoLBehavior;
-import strategy.Behavior.game.PlayNothingBehavior;
-import strategy.Behavior.sport.BasketballBehavior;
+import strategy.src.Behavior.Person;
+import strategy.src.Behavior.game.PlayLoLBehavior;
+import strategy.src.Behavior.game.PlayNothingBehavior;
+import strategy.src.Behavior.sport.BasketballBehavior;
 
 public class Main {
 

@@ -1,7 +1,8 @@
-package strategy;
+package strategy.src.Behavior;
 
-import strategy.Behavior.game.GameBehavior;
-import strategy.Behavior.sport.SportBehavior;
+import strategy.src.Behavior.game.GameBehavior;
+import strategy.src.Behavior.sport.SportBehavior;
+
 
 public class Person {
     private String name;

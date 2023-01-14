@@ -1,4 +1,4 @@
-package strategy.Behavior.game;
+package strategy.src.Behavior.game;
 
 public class PlayCsoBehavior implements GameBehavior{
     @Override

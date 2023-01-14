@@ -1,4 +1,4 @@
-package strategy.Behavior.sport;
+package strategy.src.Behavior.sport;
 
 public class NoSportBehavior implements SportBehavior{
     @Override
